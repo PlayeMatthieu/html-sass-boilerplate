@@ -1,0 +1,34 @@
+{
+  "name": "create-html-sass-boilerplate",
+  "version": "1.0.0",
+  "description": "Generate a html/sass boilerplate",
+  "main": "bin/index.js",
+  "bin": {
+    "create-html-boilerplate": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlayeMatthieu/html-sass-boilerplate.git"
+  },
+  "keywords": [
+    "html",
+    "sass",
+    "Javascript",
+    "boilerplate",
+    "cli"
+  ],
+  "author": "playe.be",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.1",
+    "prompts": "^2.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/PlayeMatthieu/html-sass-boilerplate/issues"
+  },
+  "homepage": "https://github.com/PlayeMatthieu/html-sass-boilerplate#readme"
+}
