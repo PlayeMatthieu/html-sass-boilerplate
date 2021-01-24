@@ -1,6 +1,6 @@
 {
   "name": "create-html-sass-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate a html/sass boilerplate",
   "main": "bin/index.js",
   "bin": {
